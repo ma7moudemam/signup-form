@@ -1,0 +1,38 @@
+.intro{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    color: #fff;
+    overflow: hidden;
+}
+
+.intro h1{
+    width: 60%;
+    font-size:2.7rem;
+}
+
+.intro p{
+    width: 60%;
+    margin-top: 20px;
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 480px){
+
+    .intro{
+        width: 100%;
+        margin-top: 150px;
+        margin-bottom: 50px;
+    }
+    .intro h1{
+        font-size: 2rem;
+    }
+    .intro p{
+        font-size: 0.8rem;
+        text-align: center;
+    }
+}
+    
