@@ -22,7 +22,7 @@ Your challenge is to build out this introductory component and get it looking as
 
 ### Links
 
-- Live Site URL: (https://signupp-form.web.app/)
+- Live Site URL: [Github Pages](https://signupp-form.web.app/)
 
 
 ## Author
